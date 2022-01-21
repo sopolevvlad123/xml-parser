@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "log4js": "^6.3.0",
+    "log4js": "^6.4.0",
     "xml-stream": "^0.4.5"
   },
   "devDependencies": {
